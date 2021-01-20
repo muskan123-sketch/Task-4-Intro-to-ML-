@@ -1,0 +1,2 @@
+# Task-4-Intro-to-ML-
+Machine learning is the science of getting computers to act without being explicitly programmed. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.A subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers; but not all machine learning is statistical learning. 
